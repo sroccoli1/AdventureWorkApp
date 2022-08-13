@@ -1,0 +1,13 @@
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\bin\Debug\ConsoleAppEntityFramework.exe.config
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\bin\Debug\ConsoleAppEntityFramework.exe
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\bin\Debug\ConsoleAppEntityFramework.pdb
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\obj\Debug\ConsoleAppEntityFramework.csproj.AssemblyReference.cache
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\obj\Debug\ConsoleAppEntityFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\obj\Debug\ConsoleAppEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\obj\Debug\ConsoleAppEntityFramework.csproj.CopyComplete
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\obj\Debug\ConsoleAppEntityFramework.exe
+C:\Users\User\source\consoleAppWithEntityF\ConsoleAppEntityFramework\ConsoleAppEntityFramework\obj\Debug\ConsoleAppEntityFramework.pdb
